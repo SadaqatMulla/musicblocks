@@ -1,6 +1,8 @@
 MUSIC BLOCKS
 ============
 
+A Sugar Activity
+
 “All musicians are subconsciously mathematicians” – Monk
 
 Music Blocks is a collection of manipulative tools for exploring
