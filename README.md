@@ -1,7 +1,7 @@
 MUSIC BLOCKS
 ============
 
-A Sugar Activity
+Music Blocks is a Sugar Activity
 
 “All musicians are subconsciously mathematicians” – Monk
 
